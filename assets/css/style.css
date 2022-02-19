@@ -43,6 +43,8 @@ header nav ul li a {
   font-size: 22px;
 }
 
+/* apply styles to <footer> */
+
 footer {
   background: #fce138;
   width: 100%;
@@ -66,6 +68,9 @@ footer a {
   color: #024e76;
 }
 
+
+/* apply styles to <sections> */
+
 section {
   padding: 60px;
 }
@@ -78,6 +83,13 @@ section {
   background-position: center;
   position: relative;
 }
+
+/* secondary page hero */
+.hero-secondary {
+height: 300px;
+background-position: bottom;
+}
+
 /* Hero Style End */
 
 .hero-form {
